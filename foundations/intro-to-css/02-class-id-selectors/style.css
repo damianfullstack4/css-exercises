@@ -6,7 +6,12 @@
 .middle {
     font-size : 30px;
 }
-#second{
+#second {
     font-size : 36px;
     color : blue;
+}
+#fourth {
+    background-color : green;
+    font-weight : bold;
+    font-size : 28px;
 }
