@@ -33,3 +33,12 @@ ul {
 a {
   text-decoration: none;
 }
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+}
