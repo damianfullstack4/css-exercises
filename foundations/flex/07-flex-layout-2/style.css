@@ -6,10 +6,11 @@ body {
 
 .header {
   display: flex;
+  align-items: center;
+
   height: 72px;
   background: darkmagenta;
   color: white;
-  align-items: center;
   padding-left: 16px;
 
   font-weight: 900;
@@ -17,6 +18,10 @@ body {
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
   height: 72px;
   background: #eee;
   color: darkmagenta;
